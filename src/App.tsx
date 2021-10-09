@@ -13,7 +13,7 @@ function App() {
 
       <Modal
         visible={rightVisible}
-        width={200}
+        width={220}
         footer={null}
         destroyOnClose={true}
         onCancel={() => setRightVisible(false)}
